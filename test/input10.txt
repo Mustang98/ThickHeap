@@ -1,0 +1,9 @@
+-6
+insert 194
+insert -453
+getMin
+insert 67
+deleteMin
+size
+insert -2
+getMin

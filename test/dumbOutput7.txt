@@ -1,0 +1,7 @@
+-18
+-18
+45
+65
+56
+0
+Error: Heap is empty

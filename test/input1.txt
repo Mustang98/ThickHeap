@@ -1,0 +1,31 @@
+30
+insert 15
+getMin
+size
+insert 7
+getMin
+size
+insert 14
+getMin
+size
+insert 67
+getMin
+size
+insert 5
+getMin
+size
+insert 4
+getMin
+size
+insert -18
+getMin
+size
+insert 14
+getMin
+size
+insert 0
+getMin
+size
+insert -18
+getMin
+size

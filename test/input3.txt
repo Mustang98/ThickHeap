@@ -1,0 +1,32 @@
+31
+insert 53
+getMin
+insert 120
+getMin
+getMin
+deleteMin
+getMin
+insert -15
+getMin
+insert 37
+getMin
+deleteMin
+getMin
+getMin
+getMin
+insert 4
+getMin
+insert 65
+getMin
+deleteMin
+getMin
+deleteMin
+getMin
+getMin
+insert -20
+getMin
+insert -54
+getMin
+getMin
+deleteMin
+getMin

@@ -1,0 +1,34 @@
+33
+size
+insert 9
+size
+insert 5
+size
+deleteMin
+size
+insert -35
+size
+insert -35
+size
+deleteMin
+size
+insert -35
+size
+insert 8
+size
+deleteMin
+size
+insert 73
+size
+deleteMin
+size
+deleteMin
+size
+deleteMin
+size
+insert 73
+size
+deleteMin
+size
+deleteMin
+size

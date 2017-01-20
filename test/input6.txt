@@ -1,0 +1,13 @@
+12
+insert 27
+deleteMin
+insert 54
+insert -13
+deleteMin
+deleteMin
+getMin
+insert 15
+getMin
+size
+deleteMin
+insert 137

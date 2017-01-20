@@ -1,0 +1,3601 @@
+3600
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+insert 228
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size
+deleteMin
+getMin
+size

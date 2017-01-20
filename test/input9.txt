@@ -1,0 +1,7 @@
+10
+insert 56
+getMin
+insert -5
+insert 22
+deleteMin
+size

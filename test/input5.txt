@@ -1,0 +1,27 @@
+26
+size
+insert 154
+deleteMin
+insert 45
+insert -50
+getMin
+insert 16
+size
+deleteMin
+getMin
+deleteMin
+size
+insert 20
+getMin
+insert -43
+deleteMin
+size
+insert 0
+getMin
+size
+size
+insert 16
+deleteMin
+getMin
+deleteMin
+insert 1
