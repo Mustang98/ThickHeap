@@ -5,3 +5,5 @@
 56
 0
 Error: Heap is empty
+0
+16

@@ -323,7 +323,9 @@ int main(int argc, char* argv[])
 {
     ifstream fin(argv[1]);
     ofstream fout(argv[2]);
+    std::ofstream lout("heapLogs.txt", std::ios::app);
 
+    int currentTest = atoi(argv[3]);
     ThickHeap heap;
     int operationsCount;
     int number;
@@ -334,8 +336,11 @@ int main(int argc, char* argv[])
     if (parseInteger(argument, 0, maximumOperationsCount, operationsCount) == false)
     {
         fout << "Error: Incorrect operation count\n";
+        lout << "CRITICAL error in testcase " << currentTest << " on line 1: ";
+        lout << "Incorrect operation count\n";
         fin.close();
         fout.close();
+        lout.close();
         return 0;
     }
 
@@ -344,6 +349,8 @@ int main(int argc, char* argv[])
         if (fin.eof())
         {
             fout << "Error: Operation expected\n";
+            lout << "WARNING error in testcase " << currentTest << " on line ";
+            lout << index + 2 << ": Operation expected\n";
             break;
         }
 
@@ -355,7 +362,9 @@ int main(int argc, char* argv[])
             if (parseInteger(argument, -maximumValue, maximumValue, number) == false)
             {
                 fout << "Error: Incorrect argument\n";
-                break;
+                lout << "WARNING error in testcase " << currentTest << " on line ";
+                lout << index + 2 << ": Incorrect argument\n";
+                continue;
             }
             heap.insert(number);
         }
@@ -364,7 +373,9 @@ int main(int argc, char* argv[])
             if (heap.isEmpty())
             {
                 fout << "Error: Heap is empty\n";
-                break;
+                lout << "WARNING error in testcase " << currentTest << " on line ";
+                lout << index + 2 << ": Heap is empty\n";
+                continue; 
             }
             fout << heap.getMin() << "\n";
         }
@@ -373,7 +384,9 @@ int main(int argc, char* argv[])
             if (heap.isEmpty())
             {
                 fout << "Error: Heap is empty\n";
-                break;
+                lout << "WARNING error in testcase " << currentTest << " on line ";
+                lout << index + 2 << ": Heap is empty\n";
+                continue;
             }
             fout << heap.deleteMin() << "\n";
         }
@@ -384,12 +397,15 @@ int main(int argc, char* argv[])
         else
         {
             fout << "Error: Incorrect operation\n";
-            break;
+            lout << "WARNING error in testcase " << currentTest << " on line ";
+            lout << index + 2 << ": Incorrect operation\n";
+            continue;
         }
     }
 
     fin.close();
     fout.close();
+    lout.close();
 
     return 0;
 }

@@ -2,3 +2,6 @@
 -13
 54
 Error: Heap is empty
+15
+1
+15

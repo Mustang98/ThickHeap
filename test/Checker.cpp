@@ -6,9 +6,9 @@
 #include <fstream>
 
 // Возвращает затраченное время в мс
-int runSolution(std::string filePath, std::string input, std::string output)
+int runSolution(std::string filePath, std::string input, std::string output, std::string testNumber)
 {
-    std::string fullPath = filePath + " " + input + " " + output;
+    std::string fullPath = filePath + " " + input + " " + output + " " + testNumber;
     clock_t start = clock();
     system(fullPath.c_str());
     clock_t time = clock() - start;
@@ -65,10 +65,10 @@ int main()
         std::string dumbOutput("dumbOutput" + testString + ".txt");
         std::cout << "========== TEST #" << test << "==========\n";
         std::cout << "Solving via HeapSolution: ";
-        msTime = runSolution(heapPath, input, heapOutput);
+        msTime = runSolution(heapPath, input, heapOutput, testString);
         std::cout << "OK " << msTime << "ms\n";
         std::cout << "Solving via DumbSolution: ";
-        msTime = runSolution(dumbPath, input, dumbOutput);
+        msTime = runSolution(dumbPath, input, dumbOutput, testString);
         std::cout << "OK " << msTime << "ms\n";
         std::cout << "Comparing result: ";
         compResult = compareFiles(heapOutput, dumbOutput, errorLine);

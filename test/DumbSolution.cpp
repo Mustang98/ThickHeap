@@ -47,14 +47,16 @@ bool parseInteger(std::string argument, int minValue, int maxValue, int &value)
     return true;
 }
 
-// Первые 2 аргумента коммандной строки - имена входного и выходного файлов
+// Первые 2 аргумента коммандной строки - имена входного и выходного файлов, 3й - номер теста
 int main(int argc, char* argv[])
 {
     std::ifstream fin(argv[1]); // Открываем входной файл
     std::ofstream fout(argv[2]); // Открываем (или создаем) выходной файл
+    std::ofstream lout("dumbLogs.txt", std::ios::app); // Открываем файл логирования
     
     std::vector<int> container; // Динамический массив, поддерживающий нужные элементы
 
+    int currentTest = atoi(argv[3]); // Получаем номер текущего теста
     int operationsCount; // Количество операций
     int number; // Добавляемое в контейнер число
     std::string operation; // Название текущей операции
@@ -65,8 +67,11 @@ int main(int argc, char* argv[])
     if (parseInteger(argument, 0, maximumOperationsCount, operationsCount) == false)
     {
         fout << "Error: Incorrect operation count\n"; // То выводим сообщение об ошибке
+        lout << "CRITICAL error in testcase " << currentTest << " on line 1: ";
+        lout << "Incorrect operation count\n";
         fin.close(); // Закрываем входной файл
         fout.close(); // Закрываем выходной файл
+        lout.close(); // Закрываем файл логов
         return 0; // Завершаем работу программы
     }
 
@@ -76,7 +81,9 @@ int main(int argc, char* argv[])
         if (fin.eof()) // Если операции закончились
         {
             fout << "Error: Operation expected\n"; // То выводим сообщение об ошибке
-            break; // Завершаем раоту программы
+            lout << "WARNING error in testcase " << currentTest << " on line ";
+            lout << index + 2 << ": Operation expected\n";
+            break; // Завершаем работу программы
         }
 
         fin >> operation; // Считываем очередную операцию
@@ -88,7 +95,9 @@ int main(int argc, char* argv[])
             if (parseInteger(argument, -maximumValue, maximumValue, number) == false) 
             {
                 fout << "Error: Incorrect argument\n"; // То выводим сообщение об ошибке
-                break; // Завершаем работу программы
+                lout << "WARNING error in testcase " << currentTest << " on line ";
+                lout << index + 2 << ": Incorrect argument\n";
+                continue; // Переходим к следующей операции
             }
             container.push_back(number); // Добавляем число в контейнер (справа)
         }
@@ -97,7 +106,9 @@ int main(int argc, char* argv[])
             if (container.size() == 0) // Если в контейнере нет элементов, то:
             { 
                 fout << "Error: Heap is empty\n"; // То выводим сообщение об ошибке
-                break; // Завершаем работу программы
+                lout << "WARNING error in testcase " << currentTest << " on line ";
+                lout << index + 2 << ": Heap is empty\n";
+                continue; // Переходим к следующей операции
             }
             // Находим минимальное число в контейнере, а именно:
             int minNumber = container[0]; // Изначально полагаем, что искомое число на 0й позиции
@@ -113,7 +124,9 @@ int main(int argc, char* argv[])
             if (container.size() == 0) // Если в контейнере нет элементов, то:
             {
                 fout << "Error: Heap is empty\n"; // То выводим сообщение об ошибке
-                break; // Завершаем работу программы
+                lout << "WARNING error in testcase " << currentTest << " on line ";
+                lout << index + 2 << ": Heap is empty\n";
+                continue; // Переходим к следующей операции
             }
             // Находим индекс минимального числа, а именно
             int minIndex = 0; // Изначально полагаем, что искомое число на 0й позиции
@@ -140,13 +153,15 @@ int main(int argc, char* argv[])
         else // Встретили некорректное название операции
         {
             fout << "Error: Incorrect operation\n"; // Выводим сообщение об ошибке
-            break; // Завершаем работу программы
+            lout << "WARNING error in testcase " << currentTest << " on line ";
+            lout << index + 2 << ": Incorrect operation\n";
+            continue; // Переходим к следующей операции
         }
     }
 
     fin.close(); // Закрываем входной файл
     fout.close(); // Закрываем выходной файл
-
+    lout.close(); // Закрываем файл логов
     return 0;
 }
 

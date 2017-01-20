@@ -1,0 +1,8 @@
+WARNING error in testcase 6 on line 8: Heap is empty
+WARNING error in testcase 7 on line 12: Heap is empty
+WARNING error in testcase 8 on line 7: Incorrect operation
+WARNING error in testcase 9 on line 8: Operation expected
+CRITICAL error in testcase 10 on line 1: Incorrect operation count
+WARNING error in testcase 11 on line 8: Incorrect argument
+WARNING error in testcase 12 on line 8: Incorrect argument
+WARNING error in testcase 13 on line 8: Incorrect argument
